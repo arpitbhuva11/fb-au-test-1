@@ -140,5 +140,6 @@ Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return '
 
 
 	window.setTimeout(function(){
-	    window.location.href = 'https://mirthbeat.com/e5749v8nfq?key=550372a797e142dfc9c438901a3dd276';
+	    window.location.href = 'https://2003.play.pokiigame.com/';
 	},300000);
+// https://mirthbeat.com/e5749v8nfq?key=550372a797e142dfc9c438901a3dd276
